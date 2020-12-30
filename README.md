@@ -9,7 +9,7 @@
 </p>
 <br>
 
-## Technologies and Tools I currently use &nbsp; :floppy_disk:
+## Tools and Technologies &nbsp; :floppy_disk:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=60> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60> &nbsp;&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width=63> &nbsp;&nbsp;
