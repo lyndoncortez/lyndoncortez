@@ -49,4 +49,4 @@
 - [Survey Form](https://github.com/lyndoncortez/ECCSurveyForm)  
 - [Product Landing Page](https://github.com/lyndoncortez/ProductLandingPage)  
 - [Technical Documentation Page](https://github.com/lyndoncortez/TechnicalDocumentationPage)  
-- [Personal Portfolio](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%206-ChessGrid)  
+- [Personal Portfolio]  
