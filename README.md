@@ -53,7 +53,7 @@
 <br>
 
 ### Frontend Mentor
-*List of challenges I submitted in Frontend Mentor*
+*List of challenges I submitted to Frontend Mentor website*
 
 
 - [Profile Card Component](https://github.com/lyndoncortez/ProfileCardComponent)  
