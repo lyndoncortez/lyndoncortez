@@ -50,3 +50,11 @@
 - [Product Landing Page](https://github.com/lyndoncortez/ProductLandingPage)  
 - [Technical Documentation Page](https://github.com/lyndoncortez/TechnicalDocumentationPage)  
 - [Personal Portfolio](https://github.com/lyndoncortez/Personal-Portfolio-Page)
+<br>
+
+### Frontend Mentor
+*List of challenges I submitted in Frontend Mentor*
+
+
+- [Profile Card Component](https://github.com/lyndoncortez/ProfileCardComponent)  
+- [Social Proof Section](https://github.com/lyndoncortez/SocialProofSection)
