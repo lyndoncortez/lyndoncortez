@@ -67,5 +67,5 @@
 - [TinDog App Landing Page](https://github.com/lyndoncortez/TinDogProject)  
 - [Newsletter Signup](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/APIs/Newsletter-Signup)
 - [Simple Weather App](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/APIs/WeatherProject)
-- [Blog Website](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/EJS-challenge)
+- [Blog Website](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/Blog-with-Database)
 - [To Do List App](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/ToDoList-v2)
