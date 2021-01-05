@@ -28,7 +28,7 @@
 <br>
 
 ### Avion School
-*List of projects I submitted for the bootcamp(Ongoing)*
+*List of projects I submitted for the bootcamp (Ongoing)*
 
 
 - [HTML Best Practice](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%201-HTMLBestPractices)  
