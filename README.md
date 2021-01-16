@@ -39,6 +39,9 @@
 - [Product Landing Page](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%208-ProductLandingPage)  
 - [Survey Form](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%208-SurveyForm)  
 - [Javascript Calculator](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%209-Javascript%20Calculator)
+- [Javascript Chess](https://github.com/lyndoncortez/batch5-activities/tree/main/Javascript%20Chess)
+- [Javascript Browser Quiz Game](https://github.com/lyndoncortez/batch5-activities/tree/main/Quiz%20Game)
+
 <br>
 
 ### freeCodeCamp
