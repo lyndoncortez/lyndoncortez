@@ -63,8 +63,8 @@
 - [Social Proof Section](https://github.com/lyndoncortez/SocialProofSection)
 <br>
 
-### Web Dev Bootcamp 2020 (Udemy)
-*List of projects I made under web dev bootcamp courses in Udemy*
+### Web Development Bootcamp 2020 (Udemy)
+*List of projects I made under bootcamp courses in Udemy*
 
 
 - [TinDog App Landing Page](https://github.com/lyndoncortez/TinDogProject)  
