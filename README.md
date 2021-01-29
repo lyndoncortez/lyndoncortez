@@ -41,6 +41,7 @@
 - [Javascript Calculator](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%209-Javascript%20Calculator)
 - [Javascript Chess](https://github.com/lyndoncortez/batch5-activities/tree/main/Javascript%20Chess)
 - [Javascript Browser Quiz Game](https://github.com/lyndoncortez/batch5-activities/tree/main/Quiz%20Game)
+- [Banking App JS](https://github.com/lyndoncortez/batch5-activities/tree/main/Banking-App-JS)
 
 <br>
 
