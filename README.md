@@ -42,6 +42,7 @@
 - [Javascript Chess](https://github.com/lyndoncortez/batch5-activities/tree/main/Javascript%20Chess)
 - [Javascript Browser Quiz Game](https://github.com/lyndoncortez/batch5-activities/tree/main/Quiz%20Game)
 - [Banking App JS](https://github.com/lyndoncortez/batch5-activities/tree/main/Banking-App-JS)
+- [React-Snapsplash](https://github.com/lyndoncortez/batch5-activities/tree/main/React-Snapsplash)
 
 <br>
 
