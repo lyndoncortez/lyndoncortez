@@ -24,7 +24,6 @@
 <br>
 <br>
 ## Projects &nbsp; :rocket:
-<p>These are all the projects I made throughout my journey in becoming a Software Developer:</p>
 <br>
 
 ### Avion School
