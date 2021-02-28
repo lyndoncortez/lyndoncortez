@@ -23,6 +23,9 @@
 <br>
 <br>
 <br>
+## HackerRank Badges
+![10 Days of JavaScript](/Certificates and Badges/10DaysofJS.png)
+<br>
 ## Projects &nbsp; :rocket:
 
 - [React-Snapsplash](https://github.com/lyndoncortez/batch5-activities/tree/main/React-Snapsplash)
