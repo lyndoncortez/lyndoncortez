@@ -25,13 +25,12 @@
 <br>
 ## Projects &nbsp; :rocket:
 
+- [React-Snapsplash](https://github.com/lyndoncortez/batch5-activities/tree/main/React-Snapsplash)
+- [Banking App JS](https://github.com/lyndoncortez/batch5-activities/tree/main/Banking-App-JS)
 - [HTML Best Practice](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%201-HTMLBestPractices)  
-- [Email Activity](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%202-EmailActivity)  
 - [Tribute Page](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%204-TributePage)  
 - [Product Landing Page](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%208-ProductLandingPage)  
 - [Survey Form](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%208-SurveyForm)  
-- [Banking App JS](https://github.com/lyndoncortez/batch5-activities/tree/main/Banking-App-JS)
-- [React-Snapsplash](https://github.com/lyndoncortez/batch5-activities/tree/main/React-Snapsplash)
 - [Tribute Page](https://github.com/lyndoncortez/TributePage)  
 - [Survey Form](https://github.com/lyndoncortez/ECCSurveyForm)  
 - [Product Landing Page](https://github.com/lyndoncortez/ProductLandingPage)  
