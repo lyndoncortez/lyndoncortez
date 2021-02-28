@@ -24,48 +24,19 @@
 <br>
 <br>
 ## Projects &nbsp; :rocket:
-<br>
-
-### Avion School
-*List of projects I submitted for the bootcamp (Ongoing)*
-
 
 - [HTML Best Practice](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%201-HTMLBestPractices)  
 - [Email Activity](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%202-EmailActivity)  
 - [Tribute Page](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%204-TributePage)  
-- [Chessboard Flex](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%205-ChessboardResponsive)  
-- [Chessboard Grid](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%206-ChessGrid)  
 - [Product Landing Page](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%208-ProductLandingPage)  
 - [Survey Form](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%208-SurveyForm)  
-- [Javascript Calculator](https://github.com/lyndoncortez/batch5-activities/tree/main/Day%209-Javascript%20Calculator)
-- [Javascript Chess](https://github.com/lyndoncortez/batch5-activities/tree/main/Javascript%20Chess)
-- [Javascript Browser Quiz Game](https://github.com/lyndoncortez/batch5-activities/tree/main/Quiz%20Game)
 - [Banking App JS](https://github.com/lyndoncortez/batch5-activities/tree/main/Banking-App-JS)
 - [React-Snapsplash](https://github.com/lyndoncortez/batch5-activities/tree/main/React-Snapsplash)
-
-<br>
-
-### freeCodeCamp
-*List of projects/challenges I made for freeCodeCamp website*
-
-
 - [Tribute Page](https://github.com/lyndoncortez/TributePage)  
 - [Survey Form](https://github.com/lyndoncortez/ECCSurveyForm)  
 - [Product Landing Page](https://github.com/lyndoncortez/ProductLandingPage)  
 - [Technical Documentation Page](https://github.com/lyndoncortez/TechnicalDocumentationPage)  
 - [Personal Portfolio](https://github.com/lyndoncortez/Personal-Portfolio-Page)
-<br>
-
-### Frontend Mentor
-*List of challenges I submitted to Frontend Mentor website*
-
-
-- [Profile Card Component](https://github.com/lyndoncortez/ProfileCardComponent)  
-- [Social Proof Section](https://github.com/lyndoncortez/SocialProofSection)
-<br>
-
-### Web Development Projects - Udemy
-
 - [TinDog App Landing Page](https://github.com/lyndoncortez/TinDogProject)  
 - [Newsletter Signup](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/APIs/Newsletter-Signup)
 - [Simple Weather App](https://github.com/lyndoncortez/The-Complete-2020-Web-Development-Bootcamp/tree/master/APIs/WeatherProject)
