@@ -10,7 +10,7 @@
 <br>
 
 ## HackerRank Badges
-<img src="https://github.com/lyndoncortez/lyndoncortez/blob/main/Certificates%20and%20Badges/10DaysofJS.png" width=100>
+<a href="https://www.hackerrank.com/lyndoncortez" ><img src="https://github.com/lyndoncortez/lyndoncortez/blob/main/Certificates%20and%20Badges/10DaysofJS.png" width=100></a>
 <br>
 
 ## Projects &nbsp; :rocket:
