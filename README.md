@@ -5,9 +5,12 @@
   <br><br>
   <samp>
     I'm Lyndon, I'm a Volunteer Developer for <a href="https://freeopenuniversity.org/">Collegiate Independent Study</a> :computer: and also working as a Technical Trainer for PMC Business Systems Inc. I'm currently studying Full-stack Web Development at <a href="https://avionschool.com/">Avion School</a> :school: to improve my skills.
+    I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
   </samp>
 </p>
 <br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-lyndoncortez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lyndoncortez/)](https://www.linkedin.com/in/lyndoncortez/)
 
 ## HackerRank Badges
 <a href="https://www.hackerrank.com/lyndoncortez" ><img src="https://github.com/lyndoncortez/lyndoncortez/blob/main/Certificates%20and%20Badges/10DaysofJS.png" width=100></a>
