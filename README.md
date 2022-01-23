@@ -5,7 +5,7 @@
   <br><br>
   <samp>
     I'm Lyndon, people call me Don.
-    I am always open for project collaborations and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+    I'm always open for project collaborations and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
   </samp>
 </p>
 <br>
