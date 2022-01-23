@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100>
   <br><br>
   <samp>
-    I'm Lyndon, people call me Don, currently working as a Technical Trainer for PMC Business Systems Inc. and studying Full-stack Web Development at <a href="https://avionschool.com/">Avion School</a> :school:.
+    I'm Lyndon, people call me Don.
     I am always open for project collaborations and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
   </samp>
 </p>
@@ -19,6 +19,9 @@
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
